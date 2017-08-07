@@ -1,0 +1,24 @@
+[user]
+    name = ''
+    email = ''
+
+[alias]
+    co = checkout
+    diffs = diff --cached
+    files = show --pretty='format:' --name-only
+    graph = log --color=always --all --graph --topo-order --pretty='format: %Cgreen%h%Cred%d%Creset %s %C(yellow)%cr%Creset %C(magenta)%an%Creset'
+    st = status
+
+[color]
+    branch = auto
+    diff = auto
+    interactive = auto
+    status = auto
+
+[merge]
+    tool = vimdiff
+    conflictstyle = diff3
+
+[mergetool]
+    prompt = false
+
