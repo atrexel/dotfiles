@@ -1,0 +1,4 @@
+General Dev and Windows specific Notes
+
+## Look to dev-win-notes for pro tips
+* Cycling through Windows 10 programs with keyboard [Stackoverflow Win + n (where n is app number place on taskbar)](https://stackoverflow.com/a/32402246/3299884).

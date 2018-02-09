@@ -1,0 +1,5 @@
+Mapping Windows Network Drives
+
+net use s: \\sheraton\atrexel
+
+net use w: \\westin\atrexel
