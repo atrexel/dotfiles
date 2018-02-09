@@ -1,0 +1,7 @@
+Windows Setting Command Prompt:
+
+1. Set as Environment Variable
+
+2. Parameters:
+    NAME: PROMPT
+    Value: $e[1;32m%USERNAME%@%computername% $e[33m$e[t$p$e[T$e[1;34m $$ $e[m
